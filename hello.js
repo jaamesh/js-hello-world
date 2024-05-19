@@ -4,7 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('I like this number: %d', 1+4, "But I don't like this one: ", 0);
+console.log('Admiral Stockdale said, "Who am I? Why am I here?"');
+console.log("Dio said, \"Now go my son and rock!\"");
 
 /*  
 Next, PLAY! 
